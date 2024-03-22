@@ -26,4 +26,4 @@ jobs:
       run: yarn install
 
     - name: Build
-      run: yarn grunt build
+      run: yarn grunt build --force
