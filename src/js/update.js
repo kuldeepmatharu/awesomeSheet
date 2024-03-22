@@ -102,7 +102,7 @@ var update = (function() {
     ],
     link: {
       text: "Github issues-115",
-      url: "https://github.com/The-Data-is-a-lie/awesomeSheet/issues/115"
+      url: "https://github.com/the-data-is-a-lie/awesomeSheet/issues/115"
     }
   }, {
     version: "3.30.1",

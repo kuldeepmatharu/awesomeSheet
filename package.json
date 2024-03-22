@@ -26,7 +26,7 @@
     "grunt-static-handlebars": "^0.9.0",
     "grunt-sw-precache": "^1.0.3",
     "grunt-usemin": "^3.1.1",
-    "node-sass": "^16.20.2",
+    "node-sass": "^9.0.0",
     "sw-precache": "^5.2.1",
     "time-grunt": "^1.4.0"
   },
@@ -34,6 +34,7 @@
     "express": "^4.18.2",
     "python-shell": "^5.0.0",
     "skeleton-scss": "^2.0.4",
-    "smooth-scroll": "^14.2.0"
+    "smooth-scroll": "^14.2.0",
+    "uglify-js": "^3.17.4"
   }
 }
