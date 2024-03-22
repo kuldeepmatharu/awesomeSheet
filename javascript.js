@@ -1,18 +1,18 @@
-const { spawn } = require('child_process');
+// const { spawn } = require('child_process');
 
-// Run the Python script
-const pythonProcess = spawn('python', ['python.py']);
+// // Run the Python script
+// const pythonProcess = spawn('python', ['python.py']);
 
-// Listen for data from Python script
-pythonProcess.stdout.on('data', (data) => {
-  const result = JSON.parse(data.toString());
-  console.log(result);
-});
+// // Listen for data from Python script
+// pythonProcess.stdout.on('data', (data) => {
+//   const result = JSON.parse(data.toString());
+//   console.log(result);
+// });
 
-// Handle errors
-pythonProcess.stderr.on('data', (data) => {
-  console.error(`Error: ${data}`);
-});
+// // Handle errors
+// pythonProcess.stderr.on('data', (data) => {
+//   console.error(`Error: ${data}`);
+// });
 
 // const spawner = require('child_process').spawn;
 

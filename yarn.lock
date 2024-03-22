@@ -3522,7 +3522,7 @@ node-gyp@^8.4.1:
     tar "^6.1.2"
     which "^2.0.2"
 
-node-sass@^16.20.2:
+node-sass@^9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-9.0.0.tgz#c21cd17bd9379c2d09362b3baf2cbf089bce08ed"
   integrity sha512-yltEuuLrfH6M7Pq2gAj5B6Zm7m+gdZoG66wTqG6mIZV/zijq3M2OO2HswtT6oBspPyFhHDcaxWpsBm0fRNDHPg==
