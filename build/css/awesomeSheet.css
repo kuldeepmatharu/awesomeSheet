@@ -10,10 +10,6 @@
   color: #adadad;
   transition: color 0.3s ease-in-out; }
 
-::-moz-selection {
-  background-color: #67b0f9;
-  color: #ffffff; }
-
 ::selection {
   background-color: #67b0f9;
   color: #ffffff; }
@@ -23,10 +19,6 @@
   height: 100%;
   box-sizing: border-box;
   overflow: auto; }
-
-.is-display-mode ::-moz-selection {
-  background-color: #ff648c;
-  color: #ffffff; }
 
 .is-display-mode ::selection {
   background-color: #ff648c;
@@ -3835,7 +3827,6 @@ label {
 
 .m-edit-controls {
   margin: 0 0 1em;
-  position: -webkit-sticky;
   position: sticky;
   top: 6.5em;
   transition: top 0.2s ease-in-out;
@@ -4014,8 +4005,6 @@ label {
   -webkit-user-drag: none;
   z-index: 3;
   display: block; }
-  .m-character-image::-moz-selection {
-    background-color: transparent; }
   .m-character-image::selection {
     background-color: transparent; }
 

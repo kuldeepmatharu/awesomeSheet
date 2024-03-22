@@ -8,7 +8,7 @@ var izlara = (function() {
     },
     basics: {
       character: {
-        name: "Izlara Drell",
+        name: "Baba booey",
         race: "Elf",
         alignment: "Neutral Good",
         deity: "",

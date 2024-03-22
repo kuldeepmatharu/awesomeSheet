@@ -139,6 +139,7 @@ module.exports = function(grunt) {
           '<%= folders.build %>/js/update.js',
           '<%= folders.build %>/js/wealth.js',
           '<%= folders.build %>/js/vendor-options.js',
+          '<%= folders.build %>/js/updateCharacterDescription.js',
           '<%= folders.build %>/js/init.js' // invoke calls
         ],
         dest: '<%= folders.build %>/js/awesomeSheet.js'
