@@ -22412,7 +22412,7 @@ var checkBlock = (function() {
 var checkUrl = (function() {
 
   function checkHttps() {
-    var host = "the-data-is-a-lie.github.io"
+    var host = "the-data-is-a-lie.github.io/awesomeSheet/"
     if (window.location.host == host && window.location.protocol != "https:") {
       window.location.protocol = "https:"
     };
