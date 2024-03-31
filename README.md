@@ -1,8 +1,8 @@
 # awesomeSheet - Pathfinder Character Sheet
 **A dynamic character sheet which auto calculates many scores and bonuses.**
-### [See it in action](https://the-data-is-a-lie.github.io/awesomeSheet/)
+### [See it in action](https://the-data-is-a-lie.github.io)
 
-[![awesomeSheet Demo](screenshots/demo.gif)](https://the-data-is-a-lie.github.io/awesomeSheet/)
+[![awesomeSheet Demo](screenshots/demo.gif)](https://the-data-is-a-lie.github.io)
 ![alt Screenshot 1](screenshots/screenshot-001.png)
 ![alt Screenshot 2](screenshots/screenshot-002.png)
 ![alt Screenshot 3](screenshots/screenshot-003.png)

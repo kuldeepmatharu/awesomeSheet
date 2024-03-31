@@ -1,7 +1,7 @@
 var checkUrl = (function() {
 
   function checkHttps() {
-    var host = "the-data-is-a-lie.github.io/awesomeSheet/"
+    var host = "the-data-is-a-lie.github.io"
     if (window.location.host == host && window.location.protocol != "https:") {
       window.location.protocol = "https:"
     };
